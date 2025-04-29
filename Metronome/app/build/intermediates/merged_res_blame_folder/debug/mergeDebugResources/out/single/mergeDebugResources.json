@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_metro1.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/metro1.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.metronome.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_beep.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/beep.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_claves1.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/claves1.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_cowbell.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/cowbell.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_wood.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/wood.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_bongo.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/bongo.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_claves3.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/claves3.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_metro3.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/metro3.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_clap.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/clap.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_rim.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/rim.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.metronome.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_claves2.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/claves2.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.metronome.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_sticks.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/sticks.wav"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.metronome.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.metronome.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.metronome.app-debug-52:/raw_metro2.wav.flat",
+        "source": "com.example.metronome.app-main-54:/raw/metro2.wav"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Metronome</string>
+    <string name="beep">Beep</string>
+    <string name="bongo">Bongo</string>
+    <string name="clap">Clap</string>
+    <string name="claves1">Claves 1</string>
+    <string name="claves2">Claves 2</string>
+    <string name="claves3">Claves 3</string>
+    <string name="cowbell">Cowbell</string>
+    <string name="metro1">Metro 1</string>
+    <string name="metro2">Metro 2</string>
+    <string name="metro3">Metro 3</string>
+    <string name="rim">Rim</string>
+    <string name="soundOff">Off</string>
+    <string name="sticks">Sticks</string>
+    <string name="wood">Wood</string>
+    <style name="Theme.Metronome" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

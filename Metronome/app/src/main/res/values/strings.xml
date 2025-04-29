@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Metronome</string>
+
+    <string name="soundOff">Off</string>
+    <string name="beep">Beep</string>
+    <string name="bongo">Bongo</string>
+    <string name="clap">Clap</string>
+    <string name="claves1">Claves 1</string>
+    <string name="claves2">Claves 2</string>
+    <string name="claves3">Claves 3</string>
+    <string name="cowbell">Cowbell</string>
+    <string name="metro1">Metro 1</string>
+    <string name="metro2">Metro 2</string>
+    <string name="metro3">Metro 3</string>
+    <string name="rim">Rim</string>
+    <string name="sticks">Sticks</string>
+    <string name="wood">Wood</string>
+</resources>
