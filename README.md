@@ -5,7 +5,7 @@ Ez a projekt egy metronóm alkalmazást valósít meg Android platformon Jetpack
 ## Főbb Funkciók
 
 1. **Hanggenerálás**:  
-   A metronóm képes szinuszhullám-alapú hangok, illetve mintaalapú WAV fájlok lejátszására.
+   A metronóm képes mintaalapú WAV fájlok lejátszására, illetve szinuszhullám-alapú hangok lejátszása tervben van
    
 2. **Vizualizáció**:  
    A `VisualMetronome` komponens vizuális visszajelzést nyújt az ütemekről és alosztásokról.
