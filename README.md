@@ -1,6 +1,6 @@
 # Metronóm Alkalmazás
 
-Ez a projekt egy metronóm alkalmazást valósít meg Android platformon Jetpack Compose és Kotlin felhasználásával. Az alkalmazás támogatja különböző típusú metronómok kezelését, vizuális megjelenítést, és hanggenerálást.
+Ez a projekt egy metronóm alkalmazást valósít meg Android platformon Jetpack Compose és Kotlin felhasználásával. Az alkalmazás jelenleg egy típusú metronóm kezelését, vizuális megjelenítést, és hanggenerálást támogatja.
 
 ## Főbb Funkciók
 
@@ -18,7 +18,6 @@ Ez a projekt egy metronóm alkalmazást valósít meg Android platformon Jetpack
 
 5. **Típusok Kezelése**:  
    Támogatott metronóm típusok: 
-   - `Sine Metronome` (szinuszhullám-alapú)
    - `Pattern Metronome` (mintaalapú)
 
 6. **Tartós Frissítés**:  
@@ -60,9 +59,7 @@ Ez a projekt egy metronóm alkalmazást valósít meg Android platformon Jetpack
    - Válaszd ki a kívánt számláló (`Numerator`) és nevező (`Subdiv`) értékeket az interaktív **picker** segítségével.
 
 4. **Típus Váltása**:  
-   - A metronóm típusát az alkalmazás beállításaiban konfigurálhatod:  
-     - **Sine Metronome**: Szinuszhullám-alapú hanggenerálás.  
-     - **Pattern Metronome**: Előre rögzített hangminták lejátszása.
+   - A jelenlegi verzióban csak a `Pattern Metronome` típus érhető el, amely előre rögzített hangmintákat használ.
 
 5. **Metronóm Leállítása**:  
    - A metronóm leállításához kattints a **Stop** gombra.  
